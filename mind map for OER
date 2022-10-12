@@ -1,23 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T19:31:02.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="a1pdffrYWOf1JkzPPLFO" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-12T10:22:11.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="h0S0zwTGGDc5q49EByKl" version="20.4.0" type="github" pages="2">
   <diagram id="FC9d5AYKSeIGT_AAvjTx" name="Page-1">
-    <mxGraphModel dx="1190" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1982" dy="551" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="330" />
-              <mxPoint x="540" y="330" />
-              <mxPoint x="540" y="230" />
-              <mxPoint x="550" y="230" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-1">
@@ -46,40 +35,59 @@
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-1" value="Open Source Education Resources" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-6" value="youtube leactures" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="130" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-3" target="ZXOP9_KpWaHEVolImZ7Y-6">
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="160" as="targetPoint" />
-            <mxPoint x="200" y="230" as="sourcePoint" />
+            <mxPoint x="143" y="66" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="215" />
-              <mxPoint x="200" y="160" />
-              <mxPoint x="130" y="160" />
+              <mxPoint x="176" y="66" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="77" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-6" value="youtube leactures" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="66" y="217.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-9" value="can be accessed from anywhere" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="190" width="105" height="50" as="geometry" />
+          <mxGeometry x="102.5" y="192.5" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="77" y="285" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-12" value="Free of Cost" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="250" width="110" height="50" as="geometry" />
+          <mxGeometry x="100" y="260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-3" target="ZXOP9_KpWaHEVolImZ7Y-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-3" target="ZXOP9_KpWaHEVolImZ7Y-12">
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-3" target="ZXOP9_KpWaHEVolImZ7Y-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="290" as="targetPoint" />
+            <mxPoint x="230" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-3" target="ZXOP9_KpWaHEVolImZ7Y-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="215" />
-              <mxPoint x="200" y="282" />
+              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-3" value="Easily Accessible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="195" width="130" height="40" as="geometry" />
+          <mxGeometry x="250" y="200" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-1" target="ZXOP9_KpWaHEVolImZ7Y-3">
           <mxGeometry relative="1" as="geometry">
@@ -91,39 +99,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="220" />
-              <mxPoint x="680" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-18" value="Flexible Teaching" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-20" value="No Time Restrictions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="200" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-22" value="Ease of instructor choice for student" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="90" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-24" value="Independent Learning" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="290" width="130" height="50" as="geometry" />
+          <mxGeometry x="590" y="270" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-26">
           <mxGeometry relative="1" as="geometry">
@@ -143,8 +120,23 @@
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-26" value="Open Source Tools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="572" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-55" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-28" value="Github" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-30" value="Hackerrank" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="420" width="90" height="50" as="geometry" />
@@ -156,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;AWS and VMware open source cloud&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="120" height="50" as="geometry" />
+          <mxGeometry x="176" y="480" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-36">
           <mxGeometry relative="1" as="geometry">
@@ -180,11 +172,52 @@
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-36" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Free learning and Certifications&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="719" />
+              <mxPoint x="143" y="719" />
+              <mxPoint x="143" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="847" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="719" />
+              <mxPoint x="352" y="719" />
+              <mxPoint x="352" y="748" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-38" value="Coursera Free Certification" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="180" y="630" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-40" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Hackerrank Practice Test and Certification&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="836" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-40" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Hackerrank Certifications&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="370" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-44" target="8JAeHqeuBH0YwX-doB6Y-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="671" y="737" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-44" value="Free Google Certifications and practice test" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="530" y="640" width="150" height="55" as="geometry" />
@@ -223,6 +256,133 @@
         </mxCell>
         <mxCell id="ZXOP9_KpWaHEVolImZ7Y-113" value="Online Ide&#39;s and&amp;nbsp; platforms for learning (colab, jupyter etc.)" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="740" y="510" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-18" target="ZXOP9_KpWaHEVolImZ7Y-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="220" />
+              <mxPoint x="560" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-18" value="Flexible Teaching" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-1" target="ZXOP9_KpWaHEVolImZ7Y-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="240" as="targetPoint" />
+            <mxPoint x="430" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="330" />
+              <mxPoint x="460" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-20" value="No Time Restrictions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="195" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="145" />
+              <mxPoint x="710" y="99" />
+              <mxPoint x="750" y="99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="145" />
+              <mxPoint x="710" y="176" />
+              <mxPoint x="750" y="176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXOP9_KpWaHEVolImZ7Y-22" value="Ease of instructor choice for student" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="ZXOP9_KpWaHEVolImZ7Y-20" target="ZXOP9_KpWaHEVolImZ7Y-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="120" as="targetPoint" />
+            <mxPoint x="550" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="560" y="220" />
+              <mxPoint x="560" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-24" value="youtube lecturers&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="742" y="77" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-25" value="&lt;b&gt;Edx lecturers&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="742" y="156" width="108" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-32" value="Tutors like krish naik, codewithharry and khan academy" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="22" y="33" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-34" value="Channels like Adda24x7, Neso academy and freecodecamp.org" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-30" y="123" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-36" value="Online Notes Geeksforgeeks and epgpathshala" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-30" y="198" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-38" value="Free Certificates from Coursera" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-33" y="264" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-43" value="Free Practices of tutor repositories (R/codewithharry etc.)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-110" y="490" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-44" value="Learning Platforms" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="560" width="99" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-46" value="Free Practice Sets of Hackerrank" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="88" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-50" value="University of Pennsylvania language certification" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="87" y="759" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-51" value="Princeton University Computer Science Certificate" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="836" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-53" value="University of Virginia Accounting Fundamentals" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="297" y="759" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="8JAeHqeuBH0YwX-doB6Y-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352" y="946" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="8JAeHqeuBH0YwX-doB6Y-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="946" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="8JAeHqeuBH0YwX-doB6Y-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="528" y="946" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-55" value="Certification Tests of Hackerrank" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-62" value="Python Certification" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="297" y="935" width="88" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-63" value="Problem Solving&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="935" width="94" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-64" value="Hackos Maintain" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="495" y="935" width="88" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-67" value="Google IT support Cert." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="737" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8JAeHqeuBH0YwX-doB6Y-70" value="Basics of ML Certificate" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="737" width="120" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
